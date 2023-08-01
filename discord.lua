@@ -1,6 +1,5 @@
-local discordInfo = {
+discordInfo = {
         invite = "https://discord.gg/YmeAJAC", 
         announcements = ""
     }
 
-return discordInfo
