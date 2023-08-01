@@ -1,6 +1,6 @@
 discordData = {
         invite = "https://discord.gg/YmeAJAC", 
-        announcements = ""
+        announcements = "No Announcements yet."
     }
 
 return discordData
